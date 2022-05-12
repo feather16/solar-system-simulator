@@ -1,0 +1,18 @@
+C:\Visual Studio\C#\SolarSystemSimulator\bin\Debug\SolarSystemSimulator.exe.config
+C:\Visual Studio\C#\SolarSystemSimulator\bin\Debug\SolarSystemSimulator.exe
+C:\Visual Studio\C#\SolarSystemSimulator\bin\Debug\SolarSystemSimulator.pdb
+C:\Visual Studio\C#\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.csprojAssemblyReference.cache
+C:\Visual Studio\C#\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.Properties.Resources.resources
+C:\Visual Studio\C#\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.csproj.GenerateResource.cache
+C:\Visual Studio\C#\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.csproj.CoreCompileInputs.cache
+C:\Visual Studio\C#\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.exe
+C:\Visual Studio\C#\SolarSystemSimulator\obj\Debug\SolarSystemSimulator.pdb
+C:\tmp\bin\Debug\SolarSystemSimulator.exe.config
+C:\tmp\bin\Debug\SolarSystemSimulator.exe
+C:\tmp\bin\Debug\SolarSystemSimulator.pdb
+C:\tmp\obj\Debug\SolarSystemSimulator.csproj.AssemblyReference.cache
+C:\tmp\obj\Debug\SolarSystemSimulator.Properties.Resources.resources
+C:\tmp\obj\Debug\SolarSystemSimulator.csproj.GenerateResource.cache
+C:\tmp\obj\Debug\SolarSystemSimulator.csproj.CoreCompileInputs.cache
+C:\tmp\obj\Debug\SolarSystemSimulator.exe
+C:\tmp\obj\Debug\SolarSystemSimulator.pdb

@@ -1,0 +1,8 @@
+C:\tmp\bin\Release\SolarSystemSimulator.exe.config
+C:\tmp\bin\Release\SolarSystemSimulator.exe
+C:\tmp\bin\Release\SolarSystemSimulator.pdb
+C:\tmp\obj\Release\SolarSystemSimulator.Properties.Resources.resources
+C:\tmp\obj\Release\SolarSystemSimulator.csproj.GenerateResource.cache
+C:\tmp\obj\Release\SolarSystemSimulator.csproj.CoreCompileInputs.cache
+C:\tmp\obj\Release\SolarSystemSimulator.exe
+C:\tmp\obj\Release\SolarSystemSimulator.pdb

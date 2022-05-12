@@ -1,0 +1,9 @@
+name = Sun, color = OrangeRed, mass = 1.989e30
+name = Mercury, color = LightSkyBlue, mass = 3.3011e23, vy = 47890, x = 5.79e10
+name = Venus, color = Gold, mass = 4.8675e24, vy = 35030, x = 1.08e11
+name = Earth, color = SkyBlue, mass = 5.9723e24, vy = 29790, x = 1.496e11
+name = Mars, color = Red, mass = 6.4171e23, vy = 24130, x = 2.279e11
+name = Jupiter, color = Brown, mass = 1.8982e27, vy = 13060, x = 7.783e11
+name = Saturn, color = Goldenrod, mass = 5.6834e26, vy = 9640, x = 1.427e12
+name = Uranus, color = DeepSkyBlue, mass = 8.6813e25, vy = 6810, x = 2.869e12
+name = Neptune, color = DodgerBlue, mass = 1.0241e26, vy = 5430, x = 4.496e12
