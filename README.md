@@ -1,4 +1,4 @@
-# SolarSystemSimulator
+# solar-system-simulator
 太陽系シミュレータ
 
 [Ctrl]-[+]で拡大、[Ctrl]-[-]で縮小。
